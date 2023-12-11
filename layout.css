@@ -1,0 +1,45 @@
+
+ body{
+  margin:  auto 0px;
+ }
+ .zone{
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  transition:  all 0.3s linear;
+ }
+ 
+ }
+.main-nav{
+  display: flex;
+  list-style: none;
+  font-size: 0.7 em;
+  margin: 0;
+}
+
+.green {
+    background: #568870;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  li{
+    padding: 20px;
+
+  }
+
+  a {
+    color: f5f5f6;
+  }
+
+   li {
+    margin: 0 15px;
+    color: white; /* Set the text color to white */\
+    text-decoration: overline;
+    list-style: none;
+  }
+   .we{
+    align-items: left;
+    justify-content: left;
+   }
